@@ -10,5 +10,6 @@
 ### R Assignments
 
 * Graded assignment 1 [link](https://github.com/densmits/assignments/blob/master/Graded_assignment1.ipynb)
+* Graded assignment 2 [link](https://github.com/densmits/assignments/blob/master/Graded_assignment_2.ipynb)
 
 
